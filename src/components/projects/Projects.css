@@ -1,0 +1,57 @@
+#myprojects{
+    min-height: calc(100vh - 4rem);
+    width: 100vw;
+    max-width: 60rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 0 1rem;
+    margin: 0 auto;
+}
+.projectsTitle{
+    margin: 1rem 0;
+    font-size: 3rem;
+}
+.projectsDesc{
+   font-size: 1rem;
+   font-weight: 300; 
+   max-width: 45rem;
+   margin-bottom: 1.2rem;
+}
+.projectsThumb{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 100vw;
+    min-width: 65rem;
+}
+.thumbnail{
+    object-fit:cover;
+    height: 14rem;
+    width: 22rem;
+    margin: 0.5rem;
+}
+.Projectbtn{
+    margin:  3rem auto;
+    padding: 0.5rem 2.5rem;
+    border: none;
+    background: white;
+    border-radius: 2rem;
+    font-size: 1rem;
+    cursor: pointer;
+}
+
+@media screen and (max-width:600px) {
+    .thumbnail{
+        height: 15rem;
+        width: 22rem;
+        margin-bottom: 1rem;
+      
+    }
+    .projectsThumb{
+        flex-direction: column;
+    }
+}

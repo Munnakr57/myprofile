@@ -1,0 +1,70 @@
+#intro{
+    height: calc(100vh - 4rem);
+    width: 100vw;
+    max-width: 75rem;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+.profile{
+    position: absolute;
+    z-index: -1;
+    top: 4rem;
+    right: 0;
+    object-fit: cover;
+    height: 100vh;
+    
+}
+.introContent{
+    height: 100vh;
+    width: 100vw;
+    padding: 2rem;
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.introText{
+    font-size: 3rem;
+    font-weight: 700;
+    line-height: 1.2em;
+}
+.name{
+    color: yellow;
+}
+.hello{
+    letter-spacing: 2px;
+}
+.introParagraph{
+    font-size: medium;
+    letter-spacing: 1px;
+    font-weight: 300;
+    margin-top:1rem;
+    margin-bottom:1rem;
+}
+.btn{
+    background:white;
+    margin: 1rem 0;
+    padding: 0.75rem 1.5rem;
+    border: none;
+    border-radius:2rem;
+    cursor: pointer;
+}
+.btnImg{
+    object-fit:cover;
+    margin: -2px auto;
+    height: 1rem;
+    margin-right: 0.3rem;
+}
+
+@media screen and (max-width:480px){
+    .profile{
+        right: -20vw;
+    }
+    /* .introText{
+        font-size: 10vw;
+    }   
+    .hello{
+        font-size: 4.5vw;
+    } */
+}

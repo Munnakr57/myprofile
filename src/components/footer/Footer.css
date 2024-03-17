@@ -1,0 +1,12 @@
+.mainfooter{
+    text-align: center;
+    font-size: 1rem;
+    color: white;
+    font-weight: 300;
+    height: 4rem;
+    padding: 2rem;
+    border-top: 1px solid #ccc;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
