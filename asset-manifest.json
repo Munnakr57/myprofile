@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/myprofile/static/css/main.ce9fa454.css",
+    "main.js": "/myprofile/static/js/main.7e325b96.js",
+    "static/media/image.png": "/myprofile/static/media/image.bc5d50f9c0a83b25729f.png",
+    "static/media/htmlcss.png": "/myprofile/static/media/htmlcss.a357086d0a31e2f8b73b.png",
+    "static/media/js3.jpg": "/myprofile/static/media/js3.3c9c46359a684582d02b.jpg",
+    "static/media/react.jpg": "/myprofile/static/media/react.1801d50cdb8c5a6d6ca7.jpg",
+    "static/media/instagram.png": "/myprofile/static/media/instagram.37bf99d3110e72bf1091.png",
+    "static/media/adaan.png": "/myprofile/static/media/adaan.60cf22e4bd5d79d64b60.png",
+    "static/media/google.png": "/myprofile/static/media/google.1c0643290e592b26c0e4.png",
+    "static/media/ui.png": "/myprofile/static/media/ui.7a38467dbefa7a3cbac8.png",
+    "static/media/tailwindcss.webp": "/myprofile/static/media/tailwindcss.4940f78cf71aa7061867.webp",
+    "static/media/call.png": "/myprofile/static/media/call.c66b9bd621170e4e8995.png",
+    "static/media/css.jpeg": "/myprofile/static/media/css.f138f573e5825a10f713.jpeg",
+    "static/media/linkedin.png": "/myprofile/static/media/linkedin.a9d902f0101c927c729b.png",
+    "static/media/twitter.png": "/myprofile/static/media/twitter.69a8e4e0887a3107c472.png",
+    "static/media/facebook.png": "/myprofile/static/media/facebook.9aefc369fea7de85b5d5.png",
+    "static/media/appdesign.png": "/myprofile/static/media/appdesign.258571312ad7efc3ec84.png",
+    "static/media/ibm.png": "/myprofile/static/media/ibm.31e67c9d7ae415569e2c.png",
+    "static/media/contact.png": "/myprofile/static/media/contact.8b0c6df39956f41183dc.png",
+    "index.html": "/myprofile/index.html",
+    "main.ce9fa454.css.map": "/myprofile/static/css/main.ce9fa454.css.map",
+    "main.7e325b96.js.map": "/myprofile/static/js/main.7e325b96.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce9fa454.css",
+    "static/js/main.7e325b96.js"
+  ]
+}
